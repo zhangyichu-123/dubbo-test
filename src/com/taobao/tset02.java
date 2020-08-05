@@ -7,6 +7,8 @@ public class tset02 {
 
 		
 		System.out.println("1111111111");
+		
+		System.out.println("2346411");
 	}
 
 }
